@@ -1,0 +1,11 @@
+C:\ProjetosPessoais\Monitorize\Monitorize.Core\bin\Debug\net8.0\Monitorize.Core.deps.json
+C:\ProjetosPessoais\Monitorize\Monitorize.Core\bin\Debug\net8.0\Monitorize.Core.dll
+C:\ProjetosPessoais\Monitorize\Monitorize.Core\bin\Debug\net8.0\Monitorize.Core.pdb
+C:\ProjetosPessoais\Monitorize\Monitorize.Core\obj\Debug\net8.0\Monitorize.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosPessoais\Monitorize\Monitorize.Core\obj\Debug\net8.0\Monitorize.Core.AssemblyInfoInputs.cache
+C:\ProjetosPessoais\Monitorize\Monitorize.Core\obj\Debug\net8.0\Monitorize.Core.AssemblyInfo.cs
+C:\ProjetosPessoais\Monitorize\Monitorize.Core\obj\Debug\net8.0\Monitorize.Core.csproj.CoreCompileInputs.cache
+C:\ProjetosPessoais\Monitorize\Monitorize.Core\obj\Debug\net8.0\Monitorize.Core.dll
+C:\ProjetosPessoais\Monitorize\Monitorize.Core\obj\Debug\net8.0\refint\Monitorize.Core.dll
+C:\ProjetosPessoais\Monitorize\Monitorize.Core\obj\Debug\net8.0\Monitorize.Core.pdb
+C:\ProjetosPessoais\Monitorize\Monitorize.Core\obj\Debug\net8.0\ref\Monitorize.Core.dll

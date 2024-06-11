@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Monitorize.Api/1.0.0": {
+        "dependencies": {
+          "Monitorize.Core": "1.0.0"
+        },
+        "runtime": {
+          "Monitorize.Api.dll": {}
+        }
+      },
+      "Monitorize.Core/1.0.0": {
+        "runtime": {
+          "Monitorize.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Monitorize.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Monitorize.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

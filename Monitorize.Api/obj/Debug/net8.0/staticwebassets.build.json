@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6vCqb0kWgd7nR5I7JvOFsdbzAcg8VsfU4qmjumqCtA0=",
+  "Source": "Monitorize.Api",
+  "BasePath": "_content/Monitorize.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

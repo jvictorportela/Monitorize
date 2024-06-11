@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Monitorize.Api.props" />
+</Project>
